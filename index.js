@@ -1,7 +1,1 @@
-/**
- * 
- * *************
- * Comience aqui
- * *************
- * 
- */
+const fs = require("fs");
